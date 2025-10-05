@@ -3,7 +3,7 @@
 This repository contains manual test cases for the **My Info Module** of the [OrangeHRM](https://www.orangehrm.com/) project. The test cases are organized in an Excel spreadsheet for easy tracking and management.
 
 ## Test Case Template Used
-<img width="1857" height="250" alt="image" src="https://github.com/user-attachments/assets/2809bb54-bad7-4ea8-a16a-16089dde35c8" />
+<img width="1857" height="250" alt="Screenshot 2025-10-05 132831" src="https://github.com/user-attachments/assets/d6a21b5f-90c0-4625-a772-5132dbc74150" />
 
 
 
